@@ -22,13 +22,8 @@ The project is built using JavaScript and utilizes JSON Server to simulate the A
 
 Feel free to clone or modify this project for your own purposes. To get started:
 
-### 1. Clone this repository to your local machine.
 
-   ```bash
-   git clone https://github.com/SofiDevO/alura-geek.git
-   ```
-
-### 2. Explore the project and make customizations as needed for your own projects.
+### Explore the project and make customizations as needed for your own projects.
 
 ## Important 🦉
 
@@ -40,12 +35,12 @@ first you need to install json server:
 npm install -g json-server
 ```
 
-### 3 - Use the db.json File
+- Use the db.json File
 You need to use the ```db.json``` ALREADY created, that will act as the data source.  
 
-### 4 - Start the Server
+- Start the Server
 
-### Start up the JSON 
+- Start up the JSON 
 
 Server by typing this command into your terminal: ```json-server --watch db.json.``` This will run on "https://localhost:3000" by default. You can change the port it's running on by specifying a different port number when starting the server using the --port flag.
 
